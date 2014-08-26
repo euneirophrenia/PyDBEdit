@@ -1,0 +1,9 @@
+('/Users/marcodivincenzo/Downloads/python/PyInstaller-2.1/grapher/build/grapher/grapher',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1389980086)
